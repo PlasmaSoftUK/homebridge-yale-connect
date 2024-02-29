@@ -15,7 +15,7 @@
         "type": "object",
         "properties": {
           "email": {
-            "title": "Yale hub email",
+            "title": "Yale Hub Email",
             "type": "string",
             "x-schema-form": {
               "type": "username"
@@ -43,7 +43,7 @@
             "type": "number",
             "minimum": 30,
             "placeholder": 360,
-            "description": "Indicates the number of seconds between polls of Yale HUB API."
+            "description": "Indicates the number of seconds between polls of Yale Hub API."
           },
           "pushRate": {
             "title": "Push Rate",
